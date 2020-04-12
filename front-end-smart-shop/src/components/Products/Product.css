@@ -1,0 +1,9 @@
+.centerPagination ul{
+    display: inline-flex !important;
+}
+.marginCard{
+    margin-bottom: 20px;
+}
+.containerMargin{
+    margin-top: 10px;
+}
